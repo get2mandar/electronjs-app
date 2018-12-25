@@ -1,0 +1,16 @@
+{
+  "name": "hello-electronjs-app",
+  "version": "0.1.0",
+  "description": "Simple Hello Program for Electron JS Desktop Application",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Mandar Pandit",
+  "devDependencies": {
+    "electron": "^4.0.0"
+  },
+  "dependencies": {
+    "bootstrap": "^4.2.1"
+  }
+}
