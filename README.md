@@ -52,4 +52,4 @@ $ npm start
 ```
 
 
-[NodeJS ElectronJS Desktop Application]: <https://panditmandar.blog/2018/12/15/spring-boot-data-jpa-rest-api/>
+[NodeJS ElectronJS Desktop Application]: <http://panditmandar.blog/2018/12/25/electron-js/>
